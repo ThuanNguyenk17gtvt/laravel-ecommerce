@@ -1,0 +1,13 @@
+ul{
+	list-style: none;
+}
+.main{
+ 	padding-left: 15px;
+}
+.title{
+	padding-right: 15px;
+}
+.action{
+	background-color: green;
+	cursor: pointer;
+}
